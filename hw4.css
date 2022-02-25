@@ -1,0 +1,67 @@
+/*
+  This is a CSS file for hw4.html used for Homework 4 in CSE 383
+  Author: Noah Greenbaum
+  Date: 2/24/2022
+*/
+
+.DIV1 {
+    border:dashed 15px blue;
+    padding-left:10px;
+    margin:auto;
+    margin-bottom: 10px;
+    font-size:15px;
+    border-radius:10px;
+    width: 600px;
+    justify-content: center;
+    text-align: center;    
+}
+
+.DIV2 {
+        border:solid 15px green;
+        padding:10px;
+        margin:5px;
+        position: absolute; right: 20px; bottom: 25px;
+        float: left;
+        width: 1000px;
+        text-align: center;
+}
+
+.div2 {
+        color:green;
+        text-decoration:underline;
+        text-align: left;
+}
+
+.list {
+        color: blue;
+}
+
+.div1 {
+        text-align: left;
+        text-decoration: underline;
+        color: red;
+}
+
+.favorites {
+        font-style: italic;
+}
+
+.DIV3 {
+        border:solid 5px red;
+        padding: 5px;
+        position: absolute; left: 20px; bottom: 25px;
+        width: 600px;
+        text-decoration: underline;
+        text-align:center;
+}
+.div3 {
+        text-underline-position: above;
+        color: blue;
+        text-align: center;
+        text-decoration: underline;
+{
+
+.travel {
+        font-size: 30px;
+        
+}
